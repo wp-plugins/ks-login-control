@@ -11,11 +11,12 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 A plugin to handle simple login activities.
 
 == Description ==
-KS Login Control helps you to handel login contols like 
-1. Set the login error message. Since default login message is not considered much safe as if shows which part of username or password is incorrect.
-2. Set the login attempt limit.
-3. Disable login for userdefined amount of time after some number of invalid login attempts.
-4. Sends email to admin if maximum number of invalid login attempts are hit.
+<h3>KS Login Control helps you to handel login contols like:</h3>
+<ol>
+<li>Set the login error message. Since default login message is not considered much safe as if shows which part of username or password is incorrect.</li>
+<li>Set the login attempt limit.</li>
+<li>Disable login for userdefined amount of time after some number of invalid login attempts.<li>Sends email to admin if maximum number of invalid login attempts are hit.</li>
+</ol>
 
 == Installation ==
 1. Upload the `ks-login-control` folder to the `/wp-content/plugins/` directory
